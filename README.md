@@ -11,7 +11,7 @@
 - <a href="https://github.com/notDroid/top-sign-up-form">Sixth Project - Sign-up Form</a> [HTML | CSS | JavaScript]
 - <a href="https://github.com/notDroid/top-admin-dashboard">Seventh Project - Admin Dashboard</a> [HTML | CSS | JavaScript]
 - <a>Eighth Project - Library</a> [HTML | CSS | JavaScript + Objects]
-- <a href="https://github.com/IlyaEru/TOP-Project-TIC-TAC-TOE">Ninth Project - Tic Tac Toe</a> [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
+- <a href="">Ninth Project - Tic Tac Toe</a> [HTML | CSS | JavaScript + Factory Functions + The Module Pattern]
 - <a href="https://github.com/IlyaEru/TOP-Project-Restaurant-Page">Tenth Project - Restaurant Page</a> [HTML | CSS | JavaScript + ES6 Modules + Webpack]
 - <a href="https://github.com/IlyaEru/TOP-Project-Todo-List">Eleventh Project - Todo List</a> [HTML | CSS | JavaScript + ES6 Modules + Webpack]
 - <a href="https://github.com/IlyaEru/TOP-Project-Weather-App">Twelfth Project - Weather App</a> [HTML | CSS | JavaScript + Webpack + async API]
