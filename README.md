@@ -20,4 +20,3 @@
 - <a>Fifteenth Project - Memory Card</a> [HTML | SASS | JavaScript + React]
 - <a>Sixteenth Project - Shopping Cart</a> [HTML | SASS | JavaScript + React]
 - <a>Seventeenth Project - Where's Waldo</a> [HTML | SASS | TypeScript + React | Firebase]
-
